@@ -48,7 +48,6 @@ public class Prob05 {
 					System.out.println("게임을 종료합니다.");
 					break;
 				}
-
 			}
 		}
 
